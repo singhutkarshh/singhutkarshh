@@ -5,7 +5,8 @@
 
  - Front-End skills :- 
           - React.Js
-          - Css/Sass/Html 5
+            - Css/Sass/Html 5
+               -Vanilla Js
   
  - Back-End skills:
           -Node JS
