@@ -11,7 +11,7 @@
           -Node JS
           -Express JS
 
-  -Databases:
+  - Databases:
            -MongoDB
        
        
