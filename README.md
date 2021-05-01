@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Utkarsh Singh ( @singhutkarshh )
 - 👀 I’m interested in Development and Competative Programmming 
-- 🌱 I’m currently into Web-Development
+- 🌱 I’m currently into Web and Native App Development
 
 
  - Front-End skills :- 
