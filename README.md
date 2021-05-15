@@ -26,7 +26,7 @@
 <a href="https://instagram.com/imutkarshh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="imutkarshh" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/imutkarshh1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="imutkarshh1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/imutkarshh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/leet-code.svg" alt="imutkarshh" height="30" width="40" /></a>
-<a href="/feeds/posts/default?alt=rss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/rss.svg" alt="https://www.skillblog.tech/feeds/posts/default?alt=rss" height="30" width="40" /></a>
+<a href="/posts/default?alt=rss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/rss.svg" alt="https://www.skillblog.tech/feeds/posts/default?alt=rss" height="30" width="40" /></a>
 </p>
 <br></br>
 <h3 align="left">Languages and Tools:</h3>
