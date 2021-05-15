@@ -4,7 +4,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=singhutkarshh&label=Profile%20views&color=0e75b6&style=flat" alt="singhutkarshh" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=singhutkarshh" alt="singhutkarshh" /></a> </p>
-
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
 - 🔭 I’m currently working on [signal clone (React Native)](https://github.com/singhutkarshh/signal--clone)
 
 - 🌱 I’m currently learning **Android Development**
