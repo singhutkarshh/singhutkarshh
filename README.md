@@ -7,9 +7,6 @@
 <br></br>
 <br></br>
 <br></br>
-<br></br>
-<br></br>
-<br></br>
 - 🔭 I’m currently working on [signal clone (React Native)](https://github.com/singhutkarshh/signal--clone)
 
 - 🌱 I’m currently learning **Android Development**
@@ -24,10 +21,13 @@
 
 - 📫 How to reach me **www.linkedin.com/in/singhutkarshh**
 
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+<br></br>
+<br></br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/singhutkarshh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="singhutkarshh" height="30" width="40" /></a>
