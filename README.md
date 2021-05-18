@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Utkarsh Singh</h1>
-<h3 align="center">A passionate fullstack developer ( MERN ) from India</h3>
+<h3 align="center">A passionate fullstack developer from India</h3>
 <br></br>
 
 ![GitHub followers](https://img.shields.io/github/followers/singhutkarshh?label=Follow&style=social)
@@ -17,6 +17,8 @@
 🌱 I’m currently learning Android Development
 <br></br>
 👯 I’m looking to collaborate on Web Projects (frontend and backend)
+<br></br>
+📝 Ask me about MERN Stack
 <br></br>
 👨‍💻 All of my projects are available at https://github.com/singhutkarshh
 <br></br>
