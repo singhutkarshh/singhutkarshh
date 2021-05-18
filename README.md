@@ -18,7 +18,7 @@
 
 <h1>Connect with me</h1>
 Linkedin : https://linkedin.om/singhutkarshh
-<br>/</br>
+<br></br>
 instagram : https://instagram.com/imutkarshh
 <br></br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=singhutkarshh&show_icons=true&locale=en" alt="singhutkarshh" /></p>
