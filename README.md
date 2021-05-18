@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Utkarsh Singh</h1>
 <h3 align="center">A passionate fullstack developer ( MERN ) from India</h3>
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"><em> <b>About Me</b> </em>
-
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">About Me .....
+<br></br>
 🔭 I’m currently working on [signal clone (React Native)](https://github.com/singhutkarshh/signal--clone)
 
 🌱 I’m currently learning **Android Development**
@@ -15,7 +15,7 @@
 📫 How to reach me **www.linkedin.com/in/singhutkarshh**
 <br></br>
 <br></br>
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40" marginTop="40px"> <em><b>I love connecting with different people , </b> say hi.. to Collaborate 😊</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40" > <em><b>I love connecting with different people , </b> say hi.. to Collaborate 😊</em>
 <br></br>
 Linkedin : www.linkedin.com/in/singhutkarshh
 <br></br>
