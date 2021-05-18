@@ -2,7 +2,6 @@
 <h3 align="center">A passionate fullstack developer ( MERN ) from India</h3>
 <br></br>
 <h1>Introduction</h1>
-<br></br>
 - 🔭 I’m currently working on [signal clone (React Native)](https://github.com/singhutkarshh/signal--clone)
 
 - 🌱 I’m currently learning **Android Development**
