@@ -41,4 +41,4 @@ instagram : https://instagram.com/imutkarshh
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=singhutkarshh" alt="singhutkarshh" /></a> </p>
 <p ><img style="padding-top:20px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=singhutkarshh&show_icons=true&locale=en&layout=compact" alt="singhutkarshh" /></p>
-
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=singhutkarshh&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="singhutkarshh's Github Stats">
