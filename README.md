@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Utkarsh Singh</h1>
 <h3 align="center">A passionate fullstack developer ( MERN ) from India</h3>
+
 [![Linkedin: utkarsh](https://img.shields.io/badge/-utkarsh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/singhutkarshh/)](https://www.linkedin.com/in/singhutkarshh/)
 ![GitHub followers](https://img.shields.io/github/followers/singhutkarshh?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://skillblog.tech/)](https://skillblog.tech/)
