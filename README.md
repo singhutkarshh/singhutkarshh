@@ -14,9 +14,10 @@
 
 - 📫 How to reach me **www.linkedin.com/in/singhutkarshh**
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40" marginTop="20px"> <em><b>I love connecting with different people , </b> say hi.. to Collaborate 😊</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40" marginTop="40px"> <em><h3>I love connecting with different people , </h3> say hi.. to Collaborate 😊</em>
 <br></br>
 Linkedin : www.linkedin.com/in/singhutkarshh
+<br></br>
 instagram : https://instagram.com/imutkarshh
 <br></br>
 <br></br>
