@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm Utkarsh Singh</h1>
 <h3 align="center">A passionate fullstack developer ( MERN ) from India</h3>
+
+[![Linkedin: utkarsh](https://img.shields.io/badge/-utkarsh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/singhutkarshh/)](https://www.linkedin.com/in/anmol-p-singh/)
+![GitHub followers](https://img.shields.io/github/followers/singhutkarshh?label=Follow&style=social)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://skillblog.tech/)](https://skillblog.tech/)
+![](https://visitor-badge.glitch.me/badge?page_id=singhutkarshh.singhutkarshh)
+![Waka Readme](https://github.com/singhutkarshh/singhutkarshh/workflows/Waka%20Readme/badge.svg)
+
 <h2><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me</h2>
 <br></br>
 🔭 I’m currently working on [signal clone (React Native)] (https://github.com/singhutkarshh/signal--clone)
