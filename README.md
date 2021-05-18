@@ -2,17 +2,17 @@
 <h3 align="center">A passionate fullstack developer ( MERN ) from India</h3>
 <h2><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me</h2>
 <br></br>
-🔭 I’m currently working on [signal clone (React Native)](https://github.com/singhutkarshh/signal--clone)
+🔭 I’m currently working on [signal clone (React Native)] (https://github.com/singhutkarshh/signal--clone)
 <br></br>
-🌱 I’m currently learning **Android Development**
+🌱 I’m currently learning Android Development
 <br></br>
-👯 I’m looking to collaborate on **web projects (frontend and backend)**
+👯 I’m looking to collaborate on Web Projects (frontend and backend)
 <br></br>
-👨‍💻 All of my projects are available at [https://github.com/singhutkarshh](https://github.com/singhutkarshh)
+👨‍💻 All of my projects are available at [https://github.com/singhutkarshh] (https://github.com/singhutkarshh)
 <br></br>
-📝 I regularly write articles on [www.skillblog.tech](www.skillblog.tech)
+📝 I regularly write articles on [www.skillblog.tech] (www.skillblog.tech)
 <br></br>
-📫 How to reach me **www.linkedin.com/in/singhutkarshh**
+📫 How to reach me www.linkedin.com/in/singhutkarshh
 <br></br>
 <br></br>
 <h3><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40" > I love connecting with different people 😊 ,Say hi.. to Collaborate</h3>
