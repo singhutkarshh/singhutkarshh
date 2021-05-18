@@ -5,7 +5,6 @@
 ![GitHub followers](https://img.shields.io/github/followers/singhutkarshh?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://skillblog.tech/)](https://skillblog.tech/)
 ![](https://visitor-badge.glitch.me/badge?page_id=singhutkarshh.singhutkarshh)
-![Waka Readme](https://github.com/singhutkarshh/singhutkarshh/workflows/Waka%20Readme/badge.svg)
 
 <h2><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me</h2>
 <br></br>
