@@ -5,13 +5,13 @@
 🔭 I’m currently working on [signal clone (React Native)](https://github.com/singhutkarshh/signal--clone)
 <br></br>
 🌱 I’m currently learning **Android Development**
-
+<br></br>
 👯 I’m looking to collaborate on **web projects (frontend and backend)**
-
+<br></br>
 👨‍💻 All of my projects are available at [https://github.com/singhutkarshh](https://github.com/singhutkarshh)
-
+<br></br>
 📝 I regularly write articles on [www.skillblog.tech](www.skillblog.tech)
-
+<br></br>
 📫 How to reach me **www.linkedin.com/in/singhutkarshh**
 <br></br>
 <br></br>
