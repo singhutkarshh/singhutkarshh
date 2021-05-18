@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Utkarsh Singh</h1>
 <h3 align="center">A passionate fullstack developer ( MERN ) from India</h3>
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">About Me .....
+<p>About Me <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></p>
 <br></br>
 🔭 I’m currently working on [signal clone (React Native)](https://github.com/singhutkarshh/signal--clone)
 
