@@ -12,12 +12,10 @@
 
 - 📝 I regularly write articles on [www.skillblog.tech](www.skillblog.tech)
 
-- 💬 Ask me about **React**
-
 - 📫 How to reach me **www.linkedin.com/in/singhutkarshh**
 
 <h1>Connect with me</h1>
-Linkedin : https://linkedin.om/singhutkarshh
+Linkedin : www.linkedin.com/in/singhutkarshh
 <br></br>
 instagram : https://instagram.com/imutkarshh
 <br></br>
