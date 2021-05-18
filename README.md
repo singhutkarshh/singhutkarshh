@@ -8,9 +8,9 @@
 <br></br>
 👯 I’m looking to collaborate on Web Projects (frontend and backend)
 <br></br>
-👨‍💻 All of my projects are available at [https://github.com/singhutkarshh] (https://github.com/singhutkarshh)
+👨‍💻 All of my projects are available at https://github.com/singhutkarshh
 <br></br>
-📝 I regularly write articles on [www.skillblog.tech] (www.skillblog.tech)
+📝 I regularly write articles on www.skillblog.tech
 <br></br>
 📫 How to reach me www.linkedin.com/in/singhutkarshh
 <br></br>
