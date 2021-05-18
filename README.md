@@ -3,7 +3,7 @@
 <h2><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me</h2>
 <br></br>
 🔭 I’m currently working on [signal clone (React Native)](https://github.com/singhutkarshh/signal--clone)
-
+<br></br>
 🌱 I’m currently learning **Android Development**
 
 👯 I’m looking to collaborate on **web projects (frontend and backend)**
