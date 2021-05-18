@@ -16,11 +16,8 @@
 
 - 📫 How to reach me **www.linkedin.com/in/singhutkarshh**
 
-<br></br>
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-<h3 align="left">Connect with me:</h3>
+
+###Connect with me
 Linkedin : https://linkedin.om/singhutkarshh
 instagram : https://instagram.com/imutkarshh
 <br></br>
@@ -31,4 +28,4 @@ instagram : https://instagram.com/imutkarshh
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=singhutkarshh" alt="singhutkarshh" /></a> </p>
 <p ><img style="padding-top:20px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=singhutkarshh&show_icons=true&locale=en&layout=compact" alt="singhutkarshh" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=singhutkarshh&show_icons=true&locale=en" alt="singhutkarshh" /></p>
+
