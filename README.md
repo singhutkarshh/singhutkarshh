@@ -15,7 +15,7 @@
 <br></br>
 🌱 I’m currently learning app Development
 <br></br>
-👯 I’m looking to collaborate on Web Projects (frontend and backend)
+👯 I’m looking to collaborate on Web Projects 
 <br></br>
 📝 Ask me about MERN Stack
 <br></br>
