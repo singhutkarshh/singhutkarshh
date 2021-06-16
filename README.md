@@ -13,7 +13,7 @@
 <br></br>
 🔭 I’m currently working on [signal clone (React Native)] (https://github.com/singhutkarshh/signal--clone)
 <br></br>
-🌱 I’m currently learning app Development
+🌱 I’m currently learning Web Development and App Development
 <br></br>
 👯 I’m looking to collaborate on Web Projects 
 <br></br>
