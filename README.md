@@ -11,13 +11,13 @@
 
 <h2><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me</h2>
 <br></br>
-🔭 I’m currently working on [signal clone (React Native)] (https://github.com/singhutkarshh/signal--clone)
+🔭 I’m currently working on Flutter Development
 <br></br>
 🌱 I’m currently learning Web Development and App Development
 <br></br>
 👯 I’m looking to collaborate on Web Projects 
 <br></br>
-📝 Ask me about MERN Stack
+📝 Ask me about MERN Stack and Flutter 
 <br></br>
 👨‍💻 All of my projects are available at https://github.com/singhutkarshh
 <br></br>
