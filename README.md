@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Utkarsh Singh</h1>
+<h1 align="center">Heya Peeps! 👋, I'm Utkarsh Singh</h1>
 <br></br>
 
 ![GitHub followers](https://img.shields.io/github/followers/singhutkarshh?label=Follow&style=social)
