@@ -16,7 +16,7 @@
 <br></br>
 👯 I’m looking to collaborate on Web Projects 
 <br></br>
-📝 Ask me about MERN Stack and Flutter 
+📝 Ask me about MERN Stack and Flutter/Dart
 <br></br>
 👨‍💻 All of my projects are available at https://github.com/singhutkarshh
 <br></br>
