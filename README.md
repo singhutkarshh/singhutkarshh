@@ -6,14 +6,14 @@
 <a href="https://www.instagram.com/imutkarshh" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://www.facebook.com" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 <a href="https://open.spotify.com/user/0170agi99s5hh187g7mtz245b" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://skillblog.tech/)](https://skillblog.tech/)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://skillblog.tech/)](https://theportfoliosite.netlify.app)
 ![](https://visitor-badge.glitch.me/badge?page_id=singhutkarshh.singhutkarshh)
 
 <h2><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me</h2>
 <br></br>
 🔭 I’m currently working on Flutter Development
 <br></br>
-🌱 I’m currently learning Web Development and App Development
+🌱 My forte is fullStack Web Development and Cross-Platform App Development
 <br></br>
 👯 I’m looking to collaborate on Web Projects 
 <br></br>
